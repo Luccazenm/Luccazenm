@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Luccazenm
+- 👀 I’m interested in learning programming languages
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me @luccazenm on instagram
