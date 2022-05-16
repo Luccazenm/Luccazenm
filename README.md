@@ -1,3 +1,1 @@
-### Hello World, I'm Lucca Zen Mazzoccato! 👋🏻 
-![coding](https://user-images.githubusercontent.com/101940312/168503669-9394ba84-e1c7-4cdd-bd33-64d14c152a1e.gif)
-
+<h2> Hello World, I'm Lucca Zen Mazzoccato! <img src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/200.webp?cid=ecf05e473ie8gmh9ic1vkt2nv8kgxj06u10ea84kvn2g9e85&rid=200.webp&ct=s" width="50" ></h2>
