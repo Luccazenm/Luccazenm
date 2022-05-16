@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Luccazenm
-- 👀 I’m interested in learning programming languages
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me @luccazenm on instagram
+- Hi! My name is Lucca Zen Mazzoccato! 👋🏻
+- Currently living in Porto Alegre, Rio Grande do Sul! 🌆
+- I am a Software Engineer student at PUCRS, Brazil! 👨🏻‍💻
+- Reach me on Instragam @Luccazenm or by e-mail luccazenm@icloud.com! 📧
