@@ -1,1 +1,1 @@
-<h2> Hello World, I'm Lucca Zen Mazzoccato! <img src="https://media2.giphy.com/media/cIn5fTcjnKhStIeAef/200.webp?cid=ecf05e473ie8gmh9ic1vkt2nv8kgxj06u10ea84kvn2g9e85&rid=200.webp&ct=s" width="50" ></h2>
+<h2> Hello World, I'm Lucca Zen Mazzoccato! <img src="https://media2.giphy.com/media/cpAGF6uxLw93uuQNNJ/100.webp?cid=ecf05e47rq4dsf3qksi3qovc4nxhnig9pvm31m75ejvpzm0g&rid=100.webp&ct=s" width="50" ></h2>
