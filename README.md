@@ -1,1 +1,0 @@
-![image]({https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fwallpaper%2Fcomments%2Fokkzb3%2Fhello_world_python_html_c_3840_x_2160%2F&psig=AOvVaw1yp0n4PLyAZC-5C6YhZZen&ust=1652748288952000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIjK46rl4vcCFQAAAAAdAAAAABAJ})
